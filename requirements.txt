@@ -1,0 +1,12 @@
+azure-identity
+azure-storage-file-share
+python-dotenv
+llama-index-core
+llama-index-embeddings-azure-openai
+llama-index-llms-azure-openai
+llama-index-vector-stores-weaviate
+llama-index-readers-file
+weaviate-client
+pypdf
+docx2txt
+requests
